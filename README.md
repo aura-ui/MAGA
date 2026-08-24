@@ -1,4 +1,5 @@
 # MAGA
+[![MAGA](https://raw.githubusercontent.com/aura-ui/MAGA/main/assets/maga-badge.svg)](https://github.com/aura-ui/MAGA)
 
 **Make the Web Great Again.**
 
